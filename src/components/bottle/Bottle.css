@@ -1,0 +1,28 @@
+.bottle-card{
+    position: relative;
+    border: 1px solid orange;
+    border-radius: 10px;
+    
+}
+.img{
+    width: 250px;
+    height: 250px;
+   
+    border-radius: 10px;
+}
+
+.seller-card{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 30px;
+}
+
+.btn-card{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #e7a730;
+}

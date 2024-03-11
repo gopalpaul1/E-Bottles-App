@@ -1,0 +1,22 @@
+.cart-card img{
+    width: 100px; 
+    border-radius: 5px;
+    border: 1px solid orange;
+    
+}
+
+.cart-card{
+    position: relative;
+}
+
+.delete-icon{
+    position: absolute;
+    right: 0;
+    color: white;
+    font-weight: 600;
+    width: 25px;
+    border: 1px solid orange;
+    border-radius: 50%;
+    text-align: center;
+    background-color: tomato;
+}
